@@ -29,4 +29,4 @@ Este é um jogo de duelo de cartas inspirado no clássico "pedra, papel, tesoura
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/seu-usuario/card-duel-game.git
+   git clone https://github.com/gucha36/Criando-um-Jogo-de-Cartas-do-Yu-Gi-Oh-
